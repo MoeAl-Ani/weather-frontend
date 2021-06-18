@@ -4,10 +4,12 @@
 - Reactjs.
 - Apache server.
 - Self-signed certificate used for SSL(HTTPS)
+## PRE RUNNING REQUIREMENT
+- npm version 6.14.13
 
 ## RUNNING
 - from the project root directory execute the following
-    - ***npm start dev***
+    - ***npm install && npm start dev***
   
 ## HOST
 App will be hosted on below links: 
