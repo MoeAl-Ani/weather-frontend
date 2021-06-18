@@ -8,6 +8,10 @@
 ## RUNNING
 - from the project root directory execute the following
     - ***npm start dev***
+  
+## HOST
+App will be hosted on below links: 
+- ***https://localdev.infotamia.com:3000/***
 
 ## License
 ```
