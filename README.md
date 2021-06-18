@@ -5,6 +5,7 @@
 - Apache server.
 - Self-signed certificate used for SSL(HTTPS)
 ## PRE RUNNING REQUIREMENT
+- Linux/Mac based OS
 - npm version 6.14.13
 
 ## RUNNING
